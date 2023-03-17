@@ -39,11 +39,21 @@ public class ArraysListLearn {
 
         System.out.println(desertIslandPlaylist);
 
-        //Traversing an ArrayList
+  /*Child Classes in Arrays and ArrayLists
 
+Monster dracula, wolfman, zombie1;
 
+dracula = new Vampire();
+wolfman = new Werewolf();
+zombie1 = new Zombie();
+
+Monster[] monsters = {dracula, wolfman, zombie1};
 
     }
+    for (Monster monster : monsters) {
+      monster.attack();
+      }
+   */
 
-
+    }
 }
